@@ -3,7 +3,7 @@
 
 - 📫 How to contact me **kud3544@gmail.com**
 
-<h3 align="left"> Contact me:</h3>
+
 <p align="left">
 </p>
 
