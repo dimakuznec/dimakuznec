@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm 👋 DMITRY KUZNETSOV</h1>
 
-- 📫 How to contact me **kud3544@gmail.com**
+- 📫 How to contact me **dima.kuznecov2024@gmail.com**
 
 
 <p align="left">
