@@ -4,8 +4,6 @@
   <img height="300" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tZ2Jkam0zOG96dm52bXlncnhoY3JnbDlxZ2M1YjVvbDdva2N3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
 </div>
 
-###
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dima
 ============================================================================================================================
 <div align="center">
