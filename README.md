@@ -9,7 +9,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dima
 ============================================================================================================================
 <div align="center">
-  <a href="https://t.me/@Dimon_Kuznec" target="_blank">
+  <a href="https://t.me/IT_juniorMy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
