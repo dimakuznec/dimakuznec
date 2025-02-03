@@ -1,26 +1,11 @@
-<h1 align="center">Hi, I'm 👋 DMITRY KUZNETSOV</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dima
+============================================================================================================================
 
-- 📫 How to contact me **dima.kuznecov2024@gmail.com**
+I am a beginner frontend developer
+----------------------------------
 
+I am a beginner Frontend developer. My interest in the IT field appeared in college, after which I began to study different directions. I studied Backend development in Python and Go, but Frontend development interested me the most. This inspired me to delve into studying the frontend on my own, and since then I have been actively developing in this direction.
 
-<p align="left">
-</p>
-
-
-
-<!-- ### Hi there 👋
-
-<!--
-**dimakuznec/dimakuznec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+* 🌍  I'm based in Donetsk
+* 🖥️  See my portfolio at [Мои проекты](http://github.com/dimakuznec?tab=repositories)
+* ✉️  You can contact me at [dima.kuznecov2024@gmail.com](mailto:dima.kuznecov2024@gmail.com)
