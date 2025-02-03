@@ -5,7 +5,7 @@
 </div>
 
 
-Hi ! My name is Dima
+Hi! My name is Dima
 ============================================================================================================================
 <div align="center">
   <a href="https://t.me/IT_juniorMy" target="_blank">
