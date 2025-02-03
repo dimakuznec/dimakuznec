@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif"  />
+  <img height="300" width="600" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=82a1493bawc8wcf9lkkurqbtmcgg6jiw08irbg0lw7le58p4&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
