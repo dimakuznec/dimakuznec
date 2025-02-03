@@ -24,12 +24,6 @@ I am a beginner Frontend developer. My interest in the IT field appeared in coll
 
 ----------------------------------
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
