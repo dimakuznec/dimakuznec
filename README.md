@@ -10,7 +10,7 @@ Hi !![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 </div>
 
 <h3 align="left">👩‍💻  Обо мне</h3>
-I am a beginner Frontend developer. My interest in the IT field appeared in college, after which I began to study different directions. I studied Backend development in Python and Go, but Frontend development interested me the most. This inspired me to delve into studying the frontend on my own, and since then I have been actively developing in this direction.
+I am a Frontend developer. My interest in the IT field appeared in college, after which I began to study different directions. I studied Backend development in Python and Go, but Frontend development interested me the most. This inspired me to delve into studying the frontend on my own, and since then I have been actively developing in this direction.
 
 ----------------------------------
 * 🌍  I'm based in Donetsk
