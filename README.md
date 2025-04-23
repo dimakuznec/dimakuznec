@@ -3,11 +3,11 @@
 
 <br/>
 <hr>
-# Dimon_Kuznec • Web design & Web development
-I am React developer 🇷🇺
-• fullstack development • React • Python → [https://www.videovault.ru](https://www.videovault.ru)
-• web design - contact with me @t.me/Dimon_Kuznec
-Партнёры:
-- [Creative Lab](https://marzancreativelab.ru)
-- [avan.market](https://avan.market)
-- [lis-skins](https://lis-skins)
+# Dimon_Kuznec • Web design & Web development<br/>
+I am React developer 🇷🇺<br/>
+• fullstack development • React • Python → [https://www.videovault.ru](https://www.videovault.ru)<br/>
+• web design - contact with me @t.me/Dimon_Kuznec<br/>
+Партнёры:<br/>
+- [Creative Lab](https://marzancreativelab.ru)<br/>
+- [avan.market](https://avan.market)<br/>
+- [lis-skins](https://lis-skins)<br/>
