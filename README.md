@@ -8,6 +8,6 @@ I am React developer 🇷🇺<br/>
 • fullstack development • React • Python → [https://www.videovault.ru](https://www.videovault.ru)<br/>
 • web design - contact with me @t.me/Dimon_Kuznec<br/>
 Партнёры:<br/>
-- [Creative Lab](https://marzancreativelab.ru)<br/>
-- [avan.market](https://avan.market)<br/>
-- [lis-skins](https://lis-skins)<br/>
+- https://marzancreativelab.ru) <br/>
+- https://avan.market) <br/>
+- https://lis-skins) <br/>
