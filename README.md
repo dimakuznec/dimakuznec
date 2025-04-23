@@ -10,4 +10,4 @@ I am React developer 🇷🇺<br/>
 Партнёры:<br/>
 - https://marzancreativelab.ru <br/>
 - https://avan.market <br/>
-- [https://lis-skins](https://lis-skins.com) <br/>
+- https://lis-skins.com <br/>
